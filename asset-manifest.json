@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/front-end-web-development-with-react-asignment-1/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/front-end-web-development-with-react-asignment-1/static/js/main.8123cdc3.chunk.js",
+    "main.js.map": "/front-end-web-development-with-react-asignment-1/static/js/main.8123cdc3.chunk.js.map",
+    "runtime-main.js": "/front-end-web-development-with-react-asignment-1/static/js/runtime-main.4e16fbca.js",
+    "runtime-main.js.map": "/front-end-web-development-with-react-asignment-1/static/js/runtime-main.4e16fbca.js.map",
+    "static/css/2.de424728.chunk.css": "/front-end-web-development-with-react-asignment-1/static/css/2.de424728.chunk.css",
+    "static/js/2.732368fa.chunk.js": "/front-end-web-development-with-react-asignment-1/static/js/2.732368fa.chunk.js",
+    "static/js/2.732368fa.chunk.js.map": "/front-end-web-development-with-react-asignment-1/static/js/2.732368fa.chunk.js.map",
+    "index.html": "/front-end-web-development-with-react-asignment-1/index.html",
+    "precache-manifest.4ef482633e37fc20335047b3ac3c681f.js": "/front-end-web-development-with-react-asignment-1/precache-manifest.4ef482633e37fc20335047b3ac3c681f.js",
+    "service-worker.js": "/front-end-web-development-with-react-asignment-1/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/front-end-web-development-with-react-asignment-1/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/front-end-web-development-with-react-asignment-1/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.732368fa.chunk.js.LICENSE.txt": "/front-end-web-development-with-react-asignment-1/static/js/2.732368fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e16fbca.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.732368fa.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8123cdc3.chunk.js"
+  ]
+}
